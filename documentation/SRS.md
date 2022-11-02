@@ -71,7 +71,7 @@ Attendize - это приложение для управления событи
 Окно входа в приложение.
 ![](https://github.com/Varyasha/Tritpo/raw/main/documentation/mockups/Auth.png)<br>
 Окно регистрации нового пользователя.
-
+![](https://github.com/Varyasha/Tritpo/raw/main/documentation/mockups/Reg.png)<br>
 Главное окно приложения.
 
 #### 2.3 Характеристики пользователей <a name="2.3"></a>
